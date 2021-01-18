@@ -6,4 +6,4 @@
 3b. Use any archiving tool (such as WinRAR or 7-Zip).
 
 
-Next step [cfx-server-data](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/)
+## Next step [cfx-server-data](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/)

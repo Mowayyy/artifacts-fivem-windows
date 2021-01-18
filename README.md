@@ -4,3 +4,6 @@
 2. Download the current recommended `master` branch build for Windows from the [artifacts server](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/).
 3. Extract the build into the directory previously created.
 3b. Use any archiving tool (such as WinRAR or 7-Zip).
+
+
+Next step [cfx-server-data](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/)

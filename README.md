@@ -1,9 +1,6 @@
-# Before you begin
-Make sure you have registered a license key on the [Cfx.re Keymaster](https://keymaster.fivem.net/) service. You need to have the IP match the IP on which you're going to first use the key. Afterwards, the key can be used on any IP, but only on one server at a time.
+# Installation
 
-## Prerequisites
-
-1. [Visual C++ Redistributable 2019](https://aka.ms/vs/16/release/VC_redist.x64.exe) or newer.
-2. [Git](https://git-scm.com/download/win) to assure a correct installation.
-
-### Installation
+1. Create a new directory (for example `D:\FXServer\server`), this will be used for the server binaries.
+2. Download the current recommended `master` branch build for Windows from the [artifacts server](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/).
+3. Extract the build into the directory previously created.
+3b. Use any archiving tool (such as WinRAR or 7-Zip).

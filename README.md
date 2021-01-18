@@ -6,4 +6,4 @@
 3b. Use any archiving tool (such as WinRAR or 7-Zip).
 
 
-## Next step [cfx-server-data-windows](https://github.com/Mowayyy/cfx-server-data)
+## Next step [cfx-server-data](https://github.com/Mowayyy/cfx-server-data)
